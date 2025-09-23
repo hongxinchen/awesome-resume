@@ -15,9 +15,9 @@
 
 | 其他热门项目     | 链接 |
 | ----------- | ----------- |
-| 高频面试题      | <a href="https://osjobs.net/topk/">https://osjobs.net/topk/</a>      |
 | 免费项目实战课程   | <a href="https://github.com/resumejob/free-project-course">https://github.com/resumejob/free-project-course/</a>        |
-| AI 定制简历工具   | <a href="https://ai-coach-ev.streamlit.app/">https://ai-coach-ev.streamlit.app/</a>        |
+| 算法面试前冲刺      | <a href="https://nlogk.osjobs.net/">https://nlogk.osjobs.net/</a>      |
+| 高频面试题      | <a href="https://osjobs.net/topk/">https://osjobs.net/topk/</a>      |
 
 ### 目录
 
@@ -34,7 +34,6 @@
 
 
 ## <a name="checklist">Checklist</a>
-- [ ] 使用 https://www.promptio.net/Resume 来优化简历描述
 - [ ] 按照时间倒序列出工作经历以及项目经验
 - [ ] 检查电话与邮箱地址是否正确，领英与简历同步更新
 - [ ] 使用前后一致的字体，行距与文字间距
@@ -48,11 +47,13 @@
 
 #### Experienced
 
-- Seasoned Software Engineer with 8 years of experience in the field of artificial intelligence, proficient in Python, TensorFlow, and Keras. Architected and deployed a machine learning platform that improved data processing speed by 40% for a client base of over 100,000. Awarded 'Engineer of the Year' for exceptional leadership in innovation and collaborative project success.
-- Software Engineer with a decade of experience in cloud infrastructure, skilled in AWS, Kubernetes, and Terraform. Played a key role in the migration and management of a cloud solution that now supports over 50 enterprise clients, leading to a 50% reduction in on-premise costs. Recognized with the 'Best Technical Achievement' award for optimizing cloud services and outstanding teamwork.
-- Expert Software Engineer with 6 years of experience in cybersecurity, specializing in network security and encryption technologies. Developed and implemented a security protocol that reduced breach incidents by 60% across 200,000 users. Honored with the 'Security Excellence' award for enhancing company-wide security measures and proactive threat detection.
-- Software Engineer with over 7 years of experience in mobile application development, adept in Swift and Android SDK. Directed the launch of a series of health and wellness apps, amassing over 3 million downloads, and a 4.5+ star rating. Received the 'Innovative Mobile App' accolade for outstanding app design and user experience.
-- Software Engineer with 5 years of experience in SaaS product development, proficient in Ruby on Rails and JavaScript frameworks. Led the development of a project management tool that increased customer productivity by 30%, servicing over 10,000 active users. Commended with the 'SaaS Innovator' award for driving product growth and leading a high-performing development team.
+- Software Engineer with 8 years of experience in the field of **artificial intelligence**, proficient in **Python, TensorFlow, and Keras**. Architected and deployed a machine learning platform that improved data processing speed by 40% for a client base of over 100,000. Awarded 'Engineer of the Year' for exceptional leadership in innovation and collaborative project success.
+- Software Engineer with a decade of experience in **cloud infrastructure**, skilled in **AWS, Kubernetes, and Terraform**. Played a key role in the migration and management of a cloud solution that now supports over 50 enterprise clients, leading to a **50% reduction in on-premise costs**. Recognized with the 'Best Technical Achievement' award for optimizing cloud services and outstanding teamwork.
+- Expert Software Engineer with 6 years of experience in **cybersecurity**, specializing in **network security and encryption technologies**. Developed and implemented a security protocol that reduced breach incidents by **60%** across 200,000 users. Honored with the 'Security Excellence' award for enhancing company-wide security measures and proactive threat detection.
+- Software Engineer with over 7 years of experience in **mobile application development**, adept in **Swift and Android SDK**. Directed the launch of a series of health and wellness apps, amassing over **3 million downloads**, and a 4.5+ star rating. Received the 'Innovative Mobile App' accolade for outstanding app design and user experience.
+- Software Engineer with 5 years of experience in **SaaS product development**, proficient in **Ruby on Rails and JavaScript frameworks**. Led the development of a project management tool that increased customer productivity by **30%**, servicing over 10,000 active users. Commended with the 'SaaS Innovator' award for driving product growth and leading a high-performing development team.
+- Senior Full-Stack Engineer with 9 years of experience in **web development and DevOps**, specializing in **React, Node.js, and Docker**. Built and scaled a microservices architecture serving 2M+ daily active users with 99.9% uptime. Led a team of 12 developers and reduced deployment time by **75%** through CI/CD automation. Recognized with the 'Technical Leadership Excellence' award for driving innovation and team growth.
+- Data Engineering Specialist with 7 years of experience in **big data and analytics**, expert in **Apache Spark, Kafka, and Snowflake**. Designed and implemented a real-time data pipeline processing 50TB+ daily data with 99.5% accuracy. Optimized query performance by **80%** and reduced infrastructure costs by $2M annually. Awarded 'Data Innovation Champion' for transforming business intelligence capabilities across the organization.
 
 #### New Grad
 
@@ -83,7 +84,6 @@
 #### Backend
 
 - Developed team management module for in-house CRM system in PHP that helped managers to assign members and keep track of their performance by using comprehensive dashboards and reports.
-- Designed and implemented a fullstack solution to display XYZ in data centers worldwide.
 - Used A to roll out new features to production gradually and safely, it's applied to the Web, Android, and iOS.
 - Revamped the entire back-end/front-end structure of ABC that helped to increase the traffic from 1500 visits/day to 5000 visits/day.
 - Sourced, set up, and deployed Engineering order management system organizing and tracking support requests.
